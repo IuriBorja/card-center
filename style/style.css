@@ -23,10 +23,10 @@
     width: 15%;
     border-radius: 20px 0px 20px 0px;
 }
-/* 
+
 .list {
     display: flex;
-} */
+} 
 
 .list-content {
     display: flex;
@@ -41,3 +41,6 @@
     text-decoration: none;
     list-style-type: none;
 }
+ 
+
+
